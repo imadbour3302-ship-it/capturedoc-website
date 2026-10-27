@@ -1,0 +1,256 @@
+{
+  "meta": {
+    "title": "CaptureDoc | GED, Capture Documentaire & RPA en Algérie",
+    "description": "CaptureDoc accompagne les organisations en Algérie avec des solutions de GED, capture documentaire, RPA et automatisation intelligente."
+  },
+  "nav": {
+    "home": "Accueil",
+    "solutions": "Solutions",
+    "expertises": "Expertises",
+    "services": "Nos services",
+    "about": "À propos",
+    "contact": "Contact",
+    "cta": "Parler à un expert",
+    "industries": {
+      "bancaire": {
+        "label": "Banque",
+        "desc": "Sécurisez vos parcours"
+      },
+      "assurance": {
+        "label": "Assurance",
+        "desc": "Simplifiez vos processus"
+      },
+      "telecom": {
+        "label": "Télécom",
+        "desc": "Accélérez vos opérations"
+      },
+      "transport-logistique": {
+        "label": "Transport & Logistique",
+        "desc": "Optimisez vos flux"
+      },
+      "gouvernement": {
+        "label": "Gouvernement",
+        "desc": "Modernisez vos services"
+      },
+      "sante": {
+        "label": "Santé",
+        "desc": "Digitalisez vos parcours"
+      }
+    },
+    "serviceItems": {
+      "conseil-expertise": {
+        "label": "Conseil & Expertise",
+        "desc": "Transformez vos enjeux en solutions"
+      },
+      "services-professionnels": {
+        "label": "Services Professionnels",
+        "desc": "De l'idée au déploiement"
+      },
+      "support-maintenance": {
+        "label": "Support & Maintenance",
+        "desc": "Gardez vos solutions performantes"
+      }
+    }
+  },
+  "home": {
+    "hero": {
+      "kicker": "Transformation digitale & automatisation intelligente",
+      "title": "L'intelligence technologique au service de votre performance.",
+      "titleAccent": "performance",
+      "subtitle": "Nous transformons vos processus métier grâce à des technologies intelligentes, des expertises spécialisées et un accompagnement de bout en bout.",
+      "cta": "Parler à un expert",
+      "scroll": "Défiler pour explorer",
+      "proof": "50+ clients · 13+ pays"
+    },
+    "trust": {
+      "title": "Ils nous font confiance"
+    },
+    "about": {
+      "kicker": "Présence internationale",
+      "title": "Une expertise qui dépasse les frontières",
+      "text": "Notre histoire s'est construite en Algérie, mais notre expertise s'étend aujourd'hui à toute la région ainsi qu'à l'international. Grâce à nos bureaux, nos clients et nos partenaires, nous avons développé un écosystème qui nous permet d'accompagner les organisations dans leurs projets de digitalisation, d'automatisation et d'innovation technologique.",
+      "cta": "Apprendre encore plus"
+    },
+    "expertise": {
+      "kicker": "Nos expertises",
+      "title": "Nos expertises au service de l'innovation",
+      "subtitle": "Transformez vos processus. Nous vous accompagnons.",
+      "cta": "Explorer l'expertise"
+    },
+    "cases": {
+      "kicker": "Études de cas",
+      "title": "De l'innovation aux résultats",
+      "subtitle": "Des solutions concrètes, des projets réussis, des résultats mesurables.",
+      "prev": "Étude de cas précédente",
+      "next": "Étude de cas suivante",
+      "readMore": "Lire l'étude de cas"
+    },
+    "awards": {
+      "kicker": "Distinctions",
+      "title": "Notre excellence reconnue",
+      "subtitle": "Des distinctions qui témoignent de notre expertise et de notre engagement pour l'innovation"
+    },
+    "team": {
+      "kicker": "Notre force",
+      "title": "Tout tourne autour de l'équipe",
+      "subtitle": "Une équipe. Une expertise. Un impact",
+      "imageAlt": "Équipe CaptureDoc réunie lors d'un événement"
+    },
+    "faq": {
+      "kicker": "FAQ",
+      "title": "Les réponses aux questions les plus fréquentes"
+    },
+    "cta": {
+      "title": "Construisons ensemble votre prochaine réussite",
+      "subtitle": "Transformez vos enjeux métier en opportunités grâce à des solutions innovantes, conçues pour générer des résultats concrets et durables.",
+      "button": "Parler à un expert"
+    }
+  },
+  "aboutPage": {
+    "heroTitle": "L'innovation au service de la performance",
+    "heroText": "Depuis plus de 15 ans, CaptureDoc accompagne les entreprises dans la digitalisation, l'automatisation et l'intelligence de leurs processus métier.",
+    "heroCta": "Découvrir notre histoire",
+    "heroImageAlt": "Équipe CaptureDoc réunie lors d'un événement",
+    "pillarsKicker": "Nos piliers",
+    "pillarsTitle": "Ce que nous défendons",
+    "partnersTitle": "Nos partenaires",
+    "partnersListLabel": "Liste de nos partenaires",
+    "historyKicker": "Notre Histoire",
+    "historyTitle": "Une aventure construite autour de la technologie et de l'innovation",
+    "whoKicker": "Qui nous sommes",
+    "whoTitle": "Une expertise technologique au service du métier",
+    "whoText": "Fondée en Algérie en 2010, CaptureDoc conçoit et déploie des plateformes d'automatisation intelligente pour les processus documentaires des grandes organisations. En tant que Master VAD (Distributeur à valeur ajoutée) pour Tungsten Automation et Xerox DocuShare dans la région MENA, nous aidons plus de 50 clients dans plus de 13 pays à transformer leurs chaînes documentaires en workflows automatisés, fiables et auditables — soutenus par une équipe de 50+ consultants certifiés.",
+    "whoImageAlt": "CaptureDoc équipe et expertise technologique"
+  },
+  "contact": {
+    "kicker": "Contact",
+    "title": "Parlons de votre projet",
+    "subtitle": "Contactez CaptureDoc Algérie pour échanger sur vos projets de digitalisation, d'automatisation documentaire et d'intelligence métier.",
+    "callUs": "Appelez-nous",
+    "hq": "Notre siège",
+    "address": "187 lot Bouchadou 2, N°32, Chéraga 16084",
+    "emailUs": "Envoyez-nous un e-mail",
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "email": "Adresse e-mail",
+    "subject": "Sujet",
+    "subjectPlaceholder": "Choisissez un sujet",
+    "subjects": {
+      "quote": "Demande de devis",
+      "demo": "Demander une démo",
+      "support": "Support",
+      "other": "Autre"
+    },
+    "country": "Pays",
+    "phone": "Téléphone",
+    "optional": "(facultatif)",
+    "phonePlaceholder": "Numéro de téléphone",
+    "message": "Votre message",
+    "messagePlaceholder": "Décrivez votre besoin ou votre projet…",
+    "chars": "caractères",
+    "consentPre": "J'accepte la",
+    "consentLink": "politique de confidentialité",
+    "send": "Envoyer le message",
+    "sending": "Envoi en cours…",
+    "sent": "Nous vous recontacterons bientôt",
+    "fix": "Corrigez les erreurs",
+    "errors": {
+      "name": "Utilisez entre 2 et 60 lettres.",
+      "email": "Saisissez une adresse e-mail valide.",
+      "phone": "Saisissez un numéro valide pour le pays sélectionné.",
+      "interest": "Sélectionnez un sujet.",
+      "message": "Votre message doit contenir entre 20 et 1 000 caractères.",
+      "consent": "Votre accord est requis pour envoyer le message."
+    }
+  },
+  "detail": {
+    "stagesKicker": "Le parcours",
+    "challengesKicker": "Vos défis",
+    "approachKicker": "Notre approche",
+    "casesKicker": "Cas d'usage",
+    "benefitsKicker": "Bénéfices",
+    "cta": "Parler à un expert",
+    "expertisesKicker": "Nos expertises",
+    "servicesKicker": "Nos services",
+    "solutionsKicker": "Nos solutions",
+    "caseStudyCta": "Découvrir l'étude de cas"
+  },
+  "legal": {
+    "kicker": "Informations légales",
+    "privacyTitle": "Politique de confidentialité",
+    "termsTitle": "Conditions générales",
+    "updated": "Dernière mise à jour : janvier 2025",
+    "privacySections": [
+      {
+        "t": "1. Responsable du traitement",
+        "d": "CaptureDoc, dont le siège est situé au 187 lot Bouchadou 2, N°32, Chéraga 16084, Alger, Algérie, est responsable du traitement des données personnelles collectées via ce site. Pour toute question relative à vos données, vous pouvez nous contacter à info@capturedoc.com ou au +213 551 31 97 51."
+      },
+      {
+        "t": "2. Données collectées",
+        "d": "Nous collectons les informations que vous nous transmettez via le formulaire de contact : nom, prénom, adresse e-mail, numéro de téléphone, pays, ainsi que le contenu de votre message. Des données techniques de navigation peuvent également être collectées pour améliorer nos services."
+      },
+      {
+        "t": "3. Finalités du traitement",
+        "d": "Vos données sont utilisées pour répondre à vos demandes de devis, de démonstration ou de support, pour assurer le suivi de notre relation commerciale, et pour améliorer nos services. Elles ne sont jamais vendues ni partagées avec des tiers à des fins commerciales."
+      },
+      {
+        "t": "4. Conservation et sécurité",
+        "d": "Les données sont conservées pendant la durée nécessaire aux finalités décrites, puis archivées ou supprimées conformément à la réglementation en vigueur, notamment la loi 18-07 relative à la protection des données à caractère personnel. Nous mettons en œuvre des mesures techniques et organisationnelles appropriées pour garantir la sécurité et la confidentialité de vos données."
+      },
+      {
+        "t": "5. Vos droits",
+        "d": "Conformément à la loi 18-07, vous disposez de droits d'accès, de rectification, d'opposition et de suppression sur vos données personnelles. Pour exercer ces droits, contactez-nous à info@capturedoc.com."
+      }
+    ],
+    "termsSections": [
+      {
+        "t": "1. Objet",
+        "d": "Les présentes conditions générales régissent l'utilisation du site capturedoc.com et les relations entre CaptureDoc et les utilisateurs du site. En accédant au site, vous acceptez ces conditions dans leur intégralité."
+      },
+      {
+        "t": "2. Propriété intellectuelle",
+        "d": "L'ensemble des contenus du site (textes, images, logos, marques, documentations) est la propriété exclusive de CaptureDoc ou de ses partenaires et est protégé par les lois sur la propriété intellectuelle. Toute reproduction ou utilisation sans autorisation écrite est interdite."
+      },
+      {
+        "t": "3. Services",
+        "d": "Les informations présentées sur le site décrivant nos expertises, solutions et services sont fournies à titre indicatif et ne constituent pas une offre contractuelle. Toute prestation fait l'objet d'un contrat spécifique entre CaptureDoc et son client."
+      },
+      {
+        "t": "4. Responsabilité",
+        "d": "CaptureDoc s'efforce d'assurer l'exactitude des informations publiées mais ne peut garantir l'absence d'erreurs ou d'omissions. L'utilisation des informations du site se fait sous la responsabilité de l'utilisateur."
+      },
+      {
+        "t": "5. Droit applicable",
+        "d": "Les présentes conditions sont soumises au droit algérien. Tout litige relatif à l'utilisation du site sera soumis aux tribunaux compétents d'Alger."
+      }
+    ]
+  },
+  "footer": {
+    "tagline": "Delivering Technologies With Trust And Value",
+    "contactTitle": "Coordonnées",
+    "phone": "Téléphone",
+    "email": "Email",
+    "nav": "Navigation",
+    "solutions": "Solutions",
+    "expertises": "Expertises",
+    "services": "Services",
+    "home": "Accueil",
+    "about": "À propos",
+    "contact": "Contact",
+    "rights": "CaptureDoc tous droits réservés",
+    "terms": "Conditions générales",
+    "privacy": "Politique de confidentialité",
+    "linkedin": "CaptureDoc sur LinkedIn",
+    "backHome": "Retour à l'accueil CaptureDoc"
+  },
+  "notFound": {
+    "title": "Page introuvable",
+    "desc": "La page que vous recherchez n'existe pas ou a été déplacée.",
+    "back": "Retour à l'accueil"
+  },
+  "lang": {
+    "fr": "Français",
+    "en": "English",
+    "ar": "العربية"
+  }
+}
